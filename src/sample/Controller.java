@@ -38,7 +38,7 @@ public class Controller implements Initializable {
     final String dbName = "studentdb";
     final String port = "3306";
     final String username = "admin";
-    final String password = "Powerkill11";
+    final String password = "Powerkhhill11";
     final String AWS_URL = "jdbc:mysql://" + hostname + ":" + port + "/" + dbName + "?user=" + username + "&password=" + password;
 
     private void createDatabase(String url) {
